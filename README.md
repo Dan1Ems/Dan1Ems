@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Muito prazer! Meu nome é Daniel Esmeraldo e tenho 18 anos. Atualmente estou no 1° semestre de Ciência da Computação no Centro Universitário de Brasília. Sou apaixonado por aprender novas coisas relacionadas a tecnologia e também gosto de jogar vôlei.
+Muito prazer! Meu nome é Daniel Esmeraldo e tenho 18 anos. Atualmente estou no 1° semestre de Ciência da Computação no Centro Universitário de Brasília. Sou apaixonado por aprender novas coisas relacionadas a tecnologia e também gosto de jogar vôlei. No dia a dia tenho focado a aprender a linguagem Python e mexer com web aplicações, eu também estou começando a aplicar um banco de dados em um projeto.
 
 
   <a href="https://instagram.com/daniel_udhdh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
